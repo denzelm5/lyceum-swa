@@ -18,6 +18,6 @@ jobs:
           #### If your index.html is in the repo root ####
           app_location: "/"     
           #### If you have functions in /api ####
-          api_location: "api"   
+          #api_location: "api"   
           #### No npm build → just point to folder with HTML ####
           output_location: "/"
